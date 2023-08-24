@@ -1,2 +1,1 @@
-My firstt readme
-README update from github
+i love thiss
